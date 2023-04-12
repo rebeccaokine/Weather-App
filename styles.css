@@ -147,3 +147,11 @@ form button[type="submit"] {
     text-align: center;
     margin: 10px 10px 10px 10px;
 }
+
+.bottomText{
+    margin-top: 15px;
+}
+
+a{
+    text-decoration: none;
+}
