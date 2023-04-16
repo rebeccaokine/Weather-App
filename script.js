@@ -1,4 +1,4 @@
-let apiKey = "c8735bb7e8e2f8d8a38c7501f3cd47d3";
+let apiKey = "e6fdbebba6d6f76e9a50f7444eca5b52";
 
 let searchForm = document.querySelector("form");
 let cityName = document.querySelector(".city");
